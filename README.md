@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BaoTrongIT</h1>
-<h3 align="center">A Network Engineer - Vietnamese Freelance with 4 years of experience.</h3>
+<h3 align="center">A Network Engineer - Freelance with 4 years of experience in VietNam.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuanghiduoc" alt="chuanghiduoc" /> </p>
 
 - 📝 I regulary write articles on [https://www.baotrongit.com](https://www.baotrongit.com)
