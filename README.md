@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuanghiduoc&label=Profile%20views&color=2b74ab&style=flat" alt="chuanghiduoc" /> </p>
 
+- 📝 I regularly write articles on [my blog](https://baotrongit.blogspot.com)
 - 💬 Ask me about **fullstack javascript**
 - ⚡ Fun fact **I think i am funny**
 
