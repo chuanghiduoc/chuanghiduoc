@@ -17,19 +17,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuanghiduoc&show_icons=true&locale=en&layout=compact" alt="chuanghiduoc" style="height: 175px; margin-right: 20px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=chuanghiduoc&show_icons=true&locale=en" alt="chuanghiduoc" style="height: 175px;" />
 </div>
-
-<!--Contribution Graph-->
-<h2 align="center">📈 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷 𝓖𝓻𝓪𝓹𝓱 📈</h2>
-<div align="left">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chuanghiduoc&theme=minimal" border-radius="15">
-</div>
-
- <details>
-  <summary><h3>A Quote from a random Developer 🧬</h3></summary>
-  
-  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) |
-|---|
-  
-  </details>
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/baotrongit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="baotrongit" /></a></p>
