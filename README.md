@@ -13,8 +13,8 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,nextjs,tailwind&theme=light" alt="Languages" />
 </p>
 
-<!--Tools-->
-<h3 align="left">Tools:</h3>
+<!--Technologies & DevOps Tools-->
+<h3 align="left">Technologies & DevOps Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,docker,kubernetes,aws,gcp,azure,jenkins,git,nginx,postman&theme=light" alt="Tools" />
 </p>
