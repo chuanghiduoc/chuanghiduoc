@@ -13,11 +13,25 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,nextjs,tailwind&theme=light" alt="Languages" />
 </p>
 
-<!--Technologies & DevOps Tools-->
-<h3 align="left">Technologies & DevOps Tools:</h3>
+<!--Databases & Data Streaming-->
+<h3 align="left">Databases & Data Streaming:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,docker,kubernetes,aws,gcp,azure,jenkins,git,nginx,postman&theme=light" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,elasticsearch,dynamodb,kafka,rabbitmq&theme=light" alt="Databases & Data Streaming" />
 </p>
+
+<!--Containerization, Orchestration & Monitoring-->
+<h3 align="left">Containerization, Orchestration & Monitoring:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,terraform&theme=light" alt="Containerization, Orchestration & Monitoring" />
+</p>
+
+<!--Cloud, CI/CD & DevOps-->
+<h3 align="left">Cloud, CI/CD & DevOps:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,git,nginx,postman&theme=light" alt="Cloud, CI/CD & DevOps" />
+</p>
+
+
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
