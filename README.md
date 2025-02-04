@@ -7,11 +7,18 @@
 - 💬 Ask me about **fullstack javascript**
 - ⚡ Fun fact **I think i am funny**
 
-<!--Languages and Tools-->
-<h3 align="left">Languages and Tools:</h3>
+<!-- Programming Languages -->
+<h3 align="left">Programming Languages & Frameworks:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,nextjs,tailwind,mongodb,mysql,docker,git,nginx,postman&theme=light" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,nextjs,tailwind&theme=light" alt="Languages" />
 </p>
+
+<!--Tools-->
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres,docker,kubernetes,aws,gcp,azure,jenkins,git,nginx,postman&theme=light" alt="Tools" />
+</p>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuanghiduoc&show_icons=true&locale=en&layout=compact" alt="chuanghiduoc" style="height: 175px; margin-right: 20px;" />
