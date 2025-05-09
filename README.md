@@ -10,7 +10,7 @@
 <!-- Programming Languages -->
 <h3 align="left">Programming Languages & Frameworks:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,nextjs,tailwind&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,java,ts,nodejs,react,nestjs,nextjs,tailwind&theme=light" alt="Languages" />
 </p>
 
 <!--Databases & Data Streaming-->
