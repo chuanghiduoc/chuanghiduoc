@@ -1,7 +1,10 @@
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1 align="center">
+  Hey <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="50" /> What's up?
+</h1>
+
 <p align="left">My name is Trọng. I'm a website developer from Vietnam</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuanghiduoc&label=Profile%20views&color=2b74ab&style=flat" alt="chuanghiduoc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuanghiduoc&label=Profile%20views&color=brightgreen&style=flat&abbreviated=true" alt="chuanghiduoc" /> </p>
 
 - 📝 I regularly write articles on [my blog](https://baotrongit.blogspot.com)
 - 💬 Ask me about **fullstack javascript**
