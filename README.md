@@ -34,7 +34,16 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,git,nginx,postman&theme=light" alt="Cloud, CI/CD & DevOps" />
 </p>
 
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=32262183" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32262183&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @chuanghiduoc" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32262183&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
