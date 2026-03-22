@@ -34,21 +34,13 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,git,nginx,postman&theme=light" alt="Cloud, CI/CD & DevOps" />
 </p>
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=32262183" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32262183&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @chuanghiduoc" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32262183&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuanghiduoc&show_icons=true&locale=en&layout=compact" alt="chuanghiduoc" style="height: 175px; margin-right: 20px;" />
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32262183&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @chuanghiduoc" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32262183&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuanghiduoc&show_icons=true&locale=en&layout=compact" alt="chuanghiduoc" style="height: 175px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=chuanghiduoc&show_icons=true&locale=en" alt="chuanghiduoc" style="height: 175px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuanghiduoc&" alt="chuanghiduoc" style="height: 175px;" />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chuanghiduoc&" alt="chuanghiduoc" /></p>
 
